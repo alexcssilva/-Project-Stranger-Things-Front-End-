@@ -1,9 +1,33 @@
-# Boas vindas ao repositório frontend do projeto de Deploy - Stranger Things!
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de frontend.
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
+# Projeto Stranger Things Front end
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do frontend.
+Apresentação do Projeto
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-017-stranger-things) em que os requisitos do projeto são destrinchados.
+### Introdução
+
+O Projeto Stranger Things Front end pôe o deploy.
+
+#### Habilidades que foram exigidas:
+
+-   Heroku
+-   PM2
+- - JavaScript
+
+#### Tecnologias utilizadas:
+
+-   Docker;
+-   Eslint;
+
+----------
+
+### Observação
+
+Este repositório contem o  **Stranger Things Front end**  que reúne o aprendizado, enquanto estudante da  [Trybe](https://www.betrybe.com/)  desenvolvido por:
+
+ **Linkedin  [Alex Silva](https://www.linkedin.com/in/alexcssilva/)**
+ 
+   **GitHub  [Trybe](https://github.com/tryber)**.
+
+----------
+
